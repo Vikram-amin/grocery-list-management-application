@@ -1,0 +1,9 @@
+.block{
+    display: flex;
+
+}
+.block button{
+    height: 30px;
+    margin-top: 25px;
+    margin-left: 20px;
+}
